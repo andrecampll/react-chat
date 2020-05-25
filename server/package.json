@@ -11,6 +11,7 @@
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
+    "@types/query-string": "^6.3.0",
     "nodemon": "^2.0.4"
   }
 }
